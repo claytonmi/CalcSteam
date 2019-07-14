@@ -11703,7 +11703,7 @@ object FInformacoes: TFInformacoes
     ParentFont = False
   end
   object Label9: TLabel
-    Left = 106
+    Left = 105
     Top = 179
     Width = 155
     Height = 16
@@ -11729,7 +11729,7 @@ object FInformacoes: TFInformacoes
     ParentFont = False
   end
   object LinkLabel1: TLinkLabel
-    Left = 108
+    Left = 107
     Top = 156
     Width = 58
     Height = 17

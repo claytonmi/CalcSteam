@@ -11580,10 +11580,8 @@ object FInformacoes: TFInformacoes
     E0000007FFFFFFFFF800001FFFFFFFFFFE00007FFFFFFFFFFF8001FFFFFFFFFF
     FFC003FFFFFFFFFFFFF00FFFFFFFFFFFFFFC3FFFFFFF}
   KeyPreview = True
-  OldCreateOrder = False
   Position = poScreenCenter
   OnKeyDown = FormKeyDown
-  PixelsPerInch = 96
   TextHeight = 13
   object LBAutor: TLabel
     Left = 74
@@ -11638,8 +11636,8 @@ object FInformacoes: TFInformacoes
     ParentFont = False
   end
   object Label4: TLabel
-    Left = 54
-    Top = 156
+    Left = 79
+    Top = 158
     Width = 54
     Height = 16
     Caption = 'Steam : '
@@ -11651,8 +11649,8 @@ object FInformacoes: TFInformacoes
     ParentFont = False
   end
   object Label5: TLabel
-    Left = 54
-    Top = 179
+    Left = 79
+    Top = 181
     Width = 51
     Height = 16
     Caption = 'E-mail : '
@@ -11703,11 +11701,11 @@ object FInformacoes: TFInformacoes
     ParentFont = False
   end
   object Label9: TLabel
-    Left = 106
-    Top = 179
-    Width = 155
+    Left = 131
+    Top = 181
+    Width = 118
     Height = 16
-    Caption = 'clayton.mi@outlook.com.br'
+    Caption = 'clayton-mi@live.com'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -13
@@ -11729,8 +11727,8 @@ object FInformacoes: TFInformacoes
     ParentFont = False
   end
   object LinkLabel1: TLinkLabel
-    Left = 108
-    Top = 156
+    Left = 133
+    Top = 158
     Width = 58
     Height = 17
     Caption = 

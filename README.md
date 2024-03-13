@@ -2,7 +2,7 @@
 A Calculadora Steam é uma ferramenta projetada para calcular diferentes aspectos relacionados à sua conta do Steam, permitindo que você tenha uma compreensão mais clara de quantos recursos você possui e quanto pode precisar investir para alcançar determinados objetivos na plataforma.
 
 <p align="center">
-  <img src="https://github.com/claytonmi/CalcSteam/raw/master/img/Calculadora%20de%20nivel%20da%20Steam.png" alt="Projeto Calculadora de nível Steam">
+  <img src="https://github.com/claytonmi/CalcSteam/raw/main/img/Calculadora%20de%20nivel%20da%20Steam.png" alt="Projeto Calculadora de nível Steam">
 </p>
 
 ### 🎯 Funcionalidades

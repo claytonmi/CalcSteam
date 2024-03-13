@@ -11579,11 +11579,9 @@ object FCalculadoraSteam: TFCalculadoraSteam
     E0000007FFFFFFFFF800001FFFFFFFFFFE00007FFFFFFFFFFF8001FFFFFFFFFF
     FFC003FFFFFFFFFFFFF00FFFFFFFFFFFFFFC3FFFFFFF}
   KeyPreview = True
-  OldCreateOrder = False
   Position = poScreenCenter
   OnKeyDown = FormKeyDown
   OnShow = FormShow
-  PixelsPerInch = 96
   TextHeight = 13
   object Label3: TLabel
     Left = 83

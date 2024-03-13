@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/13 19:24:08.000.221,=F:\Projeto Delphi\BioDig\Unit1.pas</Transaction>
+    <Transaction>2019/07/13 19:28:06.000.746,F:\Projeto Delphi\Projeto 01\uCalculadoraSteam.dfm=F:\Projeto Delphi\BioDig\Unit1.dfm</Transaction>
+    <Transaction>2019/07/13 19:28:06.000.746,F:\Projeto Delphi\Projeto 01\uCalculadoraSteam.pas=F:\Projeto Delphi\BioDig\Unit1.pas</Transaction>
+    <Transaction>2019/07/13 19:28:16.000.837,F:\Projeto Delphi\Projeto 01\pCalculadoraSteam.dproj=F:\Projeto Delphi\BioDig\Project1.dproj</Transaction>
+    <Transaction>2019/07/14 04:34:30.000.366,=F:\Projeto Delphi\Projeto 01\Unit1.pas</Transaction>
+    <Transaction>2019/07/14 04:36:41.000.496,F:\Projeto Delphi\Projeto 01\uInformacoes.dfm=F:\Projeto Delphi\Projeto 01\Unit1.dfm</Transaction>
+    <Transaction>2019/07/14 04:36:41.000.496,F:\Projeto Delphi\Projeto 01\uInformacoes.pas=F:\Projeto Delphi\Projeto 01\Unit1.pas</Transaction>
+    <Transaction>2019/07/14 13:13:47.000.716,=F:\Projeto Delphi\Projeto 01\Unit1.pas</Transaction>
+    <Transaction>2024/03/12 14:23:14.404,E:\Projetos Delphi\CalcSteam\CalculadoraDeNivelSteam.dproj=E:\Projetos Delphi\CalcSteam\pCalculadoraSteam.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

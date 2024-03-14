@@ -2,7 +2,7 @@
 A Calculadora Steam é uma ferramenta projetada para calcular diferentes aspectos relacionados à sua conta do Steam, permitindo que você tenha uma compreensão mais clara de quantos recursos você possui e quanto pode precisar investir para alcançar determinados objetivos na plataforma.
 
 <p align="center">
-  <img src="https://github.com/claytonmi/CalcSteam/raw/master/img/Calculadora%20de%20nivel%20da%20Steam.png" alt="Projeto Calculadora de nível Steam">
+  <img src="https://github.com/claytonmi/CalcSteam/raw/main/img/Calculadora%20de%20nivel%20da%20Steam.png" alt="Projeto Calculadora de nível Steam">
 </p>
 
 ### 🎯 Funcionalidades
@@ -16,7 +16,7 @@ A Calculadora Steam oferece diversas funcionalidades úteis para os usuários do
 ### 🕹️ Como Usar
 A Calculadora Steam é uma aplicação executável, o que significa que você não precisa instalá-la em seu sistema. Basta fazer o download do arquivo executável e executá-lo em seu computador.
 
-1. Baixe o arquivo executável da Calculadora Steam.
+1. Baixe o arquivo executável da Calculadora Steam [aqui](https://github.com/claytonmi/CalcSteam/raw/main/Win32/Debug/CalculadoraDeNivelSteam.exe).
 2. Execute o arquivo baixado.
 3. Insira as informações necessárias, como nível da conta atual e a que deseja.
 4. Clique em Lispar para zerar os resultados.
